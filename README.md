@@ -2,7 +2,7 @@
 # __**Greetings! NEO SELEPE Here:)**__
 
 This is an introduction to who Neo is and what she is capable of, starting with her first journey through technology, moving into Cloud Practitioning.
-I went from knowing nothing about cloud computing to being able to use it confidently. I'm excited to share that I've learned how to set up a virtual server in the cloud and configure it to meet specific business needs. I've also gained experience using cloud-based storage services, such as 
+I went from knowing nothing about cloud computing to being able to use it confidently. I'm excited to share that I've learned how to set up a virtual server in the cloud and configure it to meet specific business needs. I've also gained experience using cloud-based storage services, such as;
 
 ---
 
@@ -32,17 +32,23 @@ I've built a strong foundation in app and web development, applying modern frame
 
 ---
 
-Projects Completed
+# **Projects Completed**
 
-Static Website	28 November	Included screenshots and step explanations detailing the setup process.
-3D Architecture	5 December	Included architecture diagrams, AWS services explanations, and screenshots of the implementation.
-AWS Lex Bot	TBD	Included documentation of intents, bot logic, and usage screenshots.
+- **Static Website**: Includes screenshots and step explanations detailing the setup process.
+- **3D Architecture**: Includes architecture diagrams, AWS services explanations, and screenshots of the implementation.
+- **AWS Lex Bot**: Includes documentation of intents, bot logic, and usage screenshots.
 
 ---
 
-Labs
+# **Labs**
 
-I completed a minimum of two labs per section (Compute, Storage, Networking, Databases) and documented each with clear explanations, screenshots, and reasoning for every step. This practical application has solidified my theoretical understanding of cloud computing.
+I completed a minimum of two labs per section 
+- Compute
+- Storage
+- Security
+- Databases
+  
+and documented each with clear explanations, screenshots, and reasoning for every step. This practical application has solidified my theoretical understanding of cloud computing.
 
 ---
 # __**Contact Information**__

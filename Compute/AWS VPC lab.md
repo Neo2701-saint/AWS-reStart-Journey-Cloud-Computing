@@ -15,14 +15,14 @@ __**I created a Virtual Private Cloud (VPC) usng the following configurations:**
   - Internet Gateway: Enabled for public access
   - NAT Gateway: Enabled for private subnet internet access
 
-<img width="760" height="285" alt="image" src="https://github.com/user-attachments/assets/fd71141f-3fd9-460c-8e72-4ad47f0f7505" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/fd71141f-3fd9-460c-8e72-4ad47f0f7505" />
 
 ___
 
 __**The Subnets Configured and their Configuration**__
 
-<img width="584" height="230" alt="image" src="https://github.com/user-attachments/assets/ec2d3256-2240-4768-a4df-3fdf898c601c" />
-<img width="766" height="310" alt="image" src="https://github.com/user-attachments/assets/a3bf6617-ae71-4fb9-a461-24ef78a63b0e" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ec2d3256-2240-4768-a4df-3fdf898c601c" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a3bf6617-ae71-4fb9-a461-24ef78a63b0e" />
 
 ___
 
@@ -30,8 +30,8 @@ __**The Route Tables were Configurated as both Public and Private Route Tables
 with both being 0.0.0.0/0 routes. Public being an Internet Gateway and Private 
 being a NAT Gateway.**__
 
-<img width="753" height="356" alt="image" src="https://github.com/user-attachments/assets/66bb6628-1863-429f-b49d-8df30f596f58" />
-<img width="766" height="348" alt="image" src="https://github.com/user-attachments/assets/946d1c6f-8ebf-434f-a990-32611e563567" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/66bb6628-1863-429f-b49d-8df30f596f58" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/946d1c6f-8ebf-434f-a990-32611e563567" />
 
 ___
 
@@ -40,7 +40,7 @@ __**Security Group information was filled with the following information:**__
   - Name: Web Security Group
   - Inbound Rule: HTTP (Port 80) from anywhere (0.0.0.0/0)
 
-<img width="768" height="285" alt="image" src="https://github.com/user-attachments/assets/2c0e6308-a51c-4cea-b4af-4b5e7529b90f" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2c0e6308-a51c-4cea-b4af-4b5e7529b90f" />
 
 ___
 

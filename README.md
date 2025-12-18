@@ -36,7 +36,7 @@ I've built a strong foundation in app and web development, applying modern frame
 
 - **Static Website**: Includes screenshots and step explanations detailing the setup process.
 - **3D Architecture**: Includes architecture diagrams, AWS services explanations, and screenshots of the implementation.
-- **AWS Lex Bot**: Includes documentation of intents, bot logic, and usage screenshots.
+- **AWS Lex Bot**: Includes documentation of project goals and intened outcomes, bot logic, and usage of screenshots.
 
 ---
 

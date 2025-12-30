@@ -1,3 +1,11 @@
+***AWS re/Start Graduate***
+
+<img width="654" height="654" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/6dfb6aa3-e6a4-4485-860f-0c3dff2aab30" />
+
+I have earned this badge by completing the AWS re/Start program. AWS re/Start is a skills development and job training program that prepares learners for careers in the cloud. Each cohort, supported by professional mentors and accredited trainers, completes training featuring real-world scenario-based learning, hands-on labs, and coursework.
+
+---
+
 ***Security Core Concepts***
 
 <img width="1340" height="1032" alt="image" src="https://github.com/user-attachments/assets/2a45bd94-b517-4153-96fa-fb92894c9f1f" />
